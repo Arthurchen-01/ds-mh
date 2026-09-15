@@ -1,4 +1,4 @@
-# ==============================================================================
+﻿# ==============================================================================
 #  DeepSeek Harness (DSH) 离线免授权破甲运行环境一键部署脚本
 # ==============================================================================
 $ErrorActionPreference = "Stop"
@@ -86,4 +86,5 @@ Write-Host "  - 思维链压制：Flash 模型自动关闭反思 (reasoningEffor
 Write-Host "==================================================" -ForegroundColor Green
 Write-Host "`n启动命令：" -ForegroundColor White
 Write-Host "  双击运行: start_dsh.cmd" -ForegroundColor Yellow
-Write-Host "  或者终端运行: dsh web --port 3080`n" -ForegroundColor Yellow
+Write-Host "  或者终端运行: dsh web --port 3080" -ForegroundColor Yellow
+Write-Host ""

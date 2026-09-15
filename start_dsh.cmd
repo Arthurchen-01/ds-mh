@@ -1,4 +1,4 @@
-@echo off
+﻿@echo off
 chcp 65001 >nul
 title DeepSeek Harness 离线高阶破甲环境
 echo ========================================================
