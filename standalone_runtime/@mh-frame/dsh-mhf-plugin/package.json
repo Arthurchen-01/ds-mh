@@ -1,0 +1,21 @@
+{
+  "name": "@mh-frame/dsh-mhf-plugin",
+  "version": "0.5.14",
+  "private": true,
+  "description": "Online MH Frame bundle for DeepSeek Harness",
+  "mhfProtectionMarker": "MH-PROTECTED",
+  "type": "module",
+  "exports": {
+    "./cordis.patch.yml": "./cordis.patch.yml",
+    "./package.json": "./package.json"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "files": [
+    "cordis.patch.yml"
+  ],
+  "license": "UNLICENSED"
+}
