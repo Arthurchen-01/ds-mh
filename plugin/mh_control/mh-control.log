@@ -1,0 +1,292 @@
+ts=1787076955935 event=app.start version=0.1.3
+ts=1787076957289 event=app.setup.begin
+ts=1787078330111 event=launch.begin launch_id=b4fcc2c69f8c stage=begin
+ts=1787078330112 event=launch.stage launch_id=b4fcc2c69f8c stage=session_check elapsed_ms=0
+ts=1787078330113 event=launch.stage launch_id=b4fcc2c69f8c stage=download_request elapsed_ms=1
+ts=1787078332650 event=launch.stage launch_id=b4fcc2c69f8c stage=download_complete elapsed_ms=2537
+ts=1787078332654 event=launch.stage launch_id=b4fcc2c69f8c stage=ticket_request elapsed_ms=2541
+ts=1787078332678 event=launch.stage launch_id=b4fcc2c69f8c stage=ticket_ready elapsed_ms=2565
+ts=1787078332679 event=launch.stage launch_id=b4fcc2c69f8c stage=process_spawn elapsed_ms=2567
+ts=1787078332873 event=launch.stage launch_id=b4fcc2c69f8c stage=handshake_wait elapsed_ms=2761
+ts=1787078336451 event=launch.stage launch_id=b4fcc2c69f8c stage=runtime_delete elapsed_ms=6339
+ts=1787078336453 event=launch.success launch_id=b4fcc2c69f8c bytes=17086976 elapsed_ms=6341
+ts=1787142553638 event=app.start version=0.1.3
+ts=1787142555113 event=app.setup.begin
+ts=1787142588541 event=launch.begin launch_id=6ad1a3a4fa5a stage=begin
+ts=1787142588542 event=launch.stage launch_id=6ad1a3a4fa5a stage=session_check elapsed_ms=0
+ts=1787142588542 event=launch.stage launch_id=6ad1a3a4fa5a stage=download_request elapsed_ms=0
+ts=1787142590058 event=launch.stage launch_id=6ad1a3a4fa5a stage=download_complete elapsed_ms=1515
+ts=1787142590060 event=launch.stage launch_id=6ad1a3a4fa5a stage=ticket_request elapsed_ms=1518
+ts=1787142590086 event=launch.stage launch_id=6ad1a3a4fa5a stage=ticket_ready elapsed_ms=1544
+ts=1787142590086 event=launch.stage launch_id=6ad1a3a4fa5a stage=process_spawn elapsed_ms=1545
+ts=1787142590191 event=launch.stage launch_id=6ad1a3a4fa5a stage=handshake_wait elapsed_ms=1649
+ts=1787142592298 event=launch.stage launch_id=6ad1a3a4fa5a stage=runtime_delete elapsed_ms=3756
+ts=1787142592299 event=launch.success launch_id=6ad1a3a4fa5a bytes=17086976 elapsed_ms=3757
+ts=1787207744150 event=app.start version=0.1.3
+ts=1787207745637 event=app.setup.begin
+ts=1787207755221 event=launch.begin launch_id=5d5cbc9707ef stage=begin
+ts=1787207755221 event=launch.stage launch_id=5d5cbc9707ef stage=session_check elapsed_ms=0
+ts=1787207755222 event=launch.stage launch_id=5d5cbc9707ef stage=download_request elapsed_ms=0
+ts=1787207762622 event=launch.stage launch_id=5d5cbc9707ef stage=download_complete elapsed_ms=7400
+ts=1787207762625 event=launch.stage launch_id=5d5cbc9707ef stage=ticket_request elapsed_ms=7403
+ts=1787207762802 event=launch.stage launch_id=5d5cbc9707ef stage=ticket_ready elapsed_ms=7580
+ts=1787207762803 event=launch.stage launch_id=5d5cbc9707ef stage=process_spawn elapsed_ms=7582
+ts=1787207762964 event=launch.stage launch_id=5d5cbc9707ef stage=handshake_wait elapsed_ms=7742
+ts=1787207766935 event=launch.stage launch_id=5d5cbc9707ef stage=runtime_delete elapsed_ms=11714
+ts=1787207766937 event=launch.success launch_id=5d5cbc9707ef bytes=17052672 elapsed_ms=11715
+ts=1787207885941 event=launch.begin launch_id=279583e1ede9 stage=begin
+ts=1787207885942 event=launch.stage launch_id=279583e1ede9 stage=session_check elapsed_ms=0
+ts=1787207885943 event=launch.stage launch_id=279583e1ede9 stage=download_request elapsed_ms=0
+ts=1787207887057 event=launch.stage launch_id=279583e1ede9 stage=download_complete elapsed_ms=1114
+ts=1787207887057 event=launch.stage launch_id=279583e1ede9 stage=ticket_request elapsed_ms=1115
+ts=1787207887261 event=launch.stage launch_id=279583e1ede9 stage=ticket_ready elapsed_ms=1318
+ts=1787207887262 event=launch.stage launch_id=279583e1ede9 stage=process_spawn elapsed_ms=1319
+ts=1787207887321 event=launch.stage launch_id=279583e1ede9 stage=handshake_wait elapsed_ms=1378
+ts=1787207888706 event=launch.stage launch_id=279583e1ede9 stage=runtime_delete elapsed_ms=2763
+ts=1787207888707 event=launch.success launch_id=279583e1ede9 bytes=110080 elapsed_ms=2765
+ts=1787207909197 event=launch.begin launch_id=cadb1ec79baa stage=begin
+ts=1787207909198 event=launch.stage launch_id=cadb1ec79baa stage=session_check elapsed_ms=0
+ts=1787207909199 event=launch.stage launch_id=cadb1ec79baa stage=download_request elapsed_ms=0
+ts=1787207911065 event=launch.stage launch_id=cadb1ec79baa stage=download_complete elapsed_ms=1866
+ts=1787207911068 event=launch.stage launch_id=cadb1ec79baa stage=ticket_request elapsed_ms=1869
+ts=1787207911629 event=launch.stage launch_id=cadb1ec79baa stage=ticket_ready elapsed_ms=2430
+ts=1787207911630 event=launch.stage launch_id=cadb1ec79baa stage=process_spawn elapsed_ms=2432
+ts=1787207911806 event=launch.stage launch_id=cadb1ec79baa stage=handshake_wait elapsed_ms=2607
+ts=1787207935048 event=launch.failure launch_id=cadb1ec79baa stage=handshake reason=ack_error elapsed_ms=25849
+ts=1787207935064 event=launch.aborted launch_id=cadb1ec79baa stage=handshake elapsed_ms=25865
+ts=1787207984969 event=launch.begin launch_id=9d53437c198b stage=begin
+ts=1787207984969 event=launch.stage launch_id=9d53437c198b stage=session_check elapsed_ms=0
+ts=1787207984970 event=launch.stage launch_id=9d53437c198b stage=download_request elapsed_ms=0
+ts=1787207996403 event=launch.stage launch_id=9d53437c198b stage=download_complete elapsed_ms=11433
+ts=1787207996406 event=launch.stage launch_id=9d53437c198b stage=ticket_request elapsed_ms=11436
+ts=1787207996609 event=launch.stage launch_id=9d53437c198b stage=ticket_ready elapsed_ms=11639
+ts=1787207996609 event=launch.stage launch_id=9d53437c198b stage=process_spawn elapsed_ms=11640
+ts=1787207996746 event=launch.stage launch_id=9d53437c198b stage=handshake_wait elapsed_ms=11777
+ts=1787207999450 event=launch.stage launch_id=9d53437c198b stage=runtime_delete elapsed_ms=14480
+ts=1787207999452 event=launch.success launch_id=9d53437c198b bytes=17052672 elapsed_ms=14482
+ts=1787208041304 event=launch.begin launch_id=0f38ba733627 stage=begin
+ts=1787208041304 event=launch.stage launch_id=0f38ba733627 stage=session_check elapsed_ms=0
+ts=1787208041305 event=launch.stage launch_id=0f38ba733627 stage=download_request elapsed_ms=0
+ts=1787208042243 event=launch.stage launch_id=0f38ba733627 stage=download_complete elapsed_ms=938
+ts=1787208042244 event=launch.stage launch_id=0f38ba733627 stage=ticket_request elapsed_ms=939
+ts=1787208042429 event=launch.stage launch_id=0f38ba733627 stage=ticket_ready elapsed_ms=1123
+ts=1787208042430 event=launch.stage launch_id=0f38ba733627 stage=process_spawn elapsed_ms=1125
+ts=1787208042500 event=launch.stage launch_id=0f38ba733627 stage=handshake_wait elapsed_ms=1195
+ts=1787208043789 event=launch.stage launch_id=0f38ba733627 stage=runtime_delete elapsed_ms=2484
+ts=1787208043791 event=launch.success launch_id=0f38ba733627 bytes=110080 elapsed_ms=2486
+ts=1787208053655 event=launch.begin launch_id=9a277ca459f8 stage=begin
+ts=1787208053656 event=launch.stage launch_id=9a277ca459f8 stage=session_check elapsed_ms=0
+ts=1787208053657 event=launch.stage launch_id=9a277ca459f8 stage=download_request elapsed_ms=0
+ts=1787208064359 event=launch.stage launch_id=9a277ca459f8 stage=download_complete elapsed_ms=10702
+ts=1787208064366 event=launch.stage launch_id=9a277ca459f8 stage=ticket_request elapsed_ms=10709
+ts=1787208064902 event=launch.stage launch_id=9a277ca459f8 stage=ticket_ready elapsed_ms=11245
+ts=1787208064903 event=launch.stage launch_id=9a277ca459f8 stage=process_spawn elapsed_ms=11246
+ts=1787208065050 event=launch.stage launch_id=9a277ca459f8 stage=handshake_wait elapsed_ms=11394
+ts=1787208067846 event=launch.stage launch_id=9a277ca459f8 stage=runtime_delete elapsed_ms=14189
+ts=1787208067848 event=launch.success launch_id=9a277ca459f8 bytes=17052672 elapsed_ms=14191
+ts=1787212268252 event=launch.begin launch_id=86a0f46f1f9c stage=begin
+ts=1787212268254 event=launch.stage launch_id=86a0f46f1f9c stage=session_check elapsed_ms=0
+ts=1787212268257 event=launch.stage launch_id=86a0f46f1f9c stage=download_request elapsed_ms=2
+ts=1787212268351 event=launch.aborted launch_id=86a0f46f1f9c stage=download_request elapsed_ms=96
+ts=1787212269704 event=launch.begin launch_id=04c1c89d92b1 stage=begin
+ts=1787212269704 event=launch.stage launch_id=04c1c89d92b1 stage=session_check elapsed_ms=0
+ts=1787212269705 event=launch.stage launch_id=04c1c89d92b1 stage=download_request elapsed_ms=0
+ts=1787212269807 event=launch.aborted launch_id=04c1c89d92b1 stage=download_request elapsed_ms=102
+ts=1787212282293 event=app.start version=0.1.3
+ts=1787212283113 event=app.setup.begin
+ts=1787212979300 event=app.start version=0.1.3
+ts=1787212980272 event=app.setup.begin
+ts=1787212983490 event=launch.begin launch_id=3956030c77e7 stage=begin
+ts=1787212983491 event=launch.stage launch_id=3956030c77e7 stage=session_check elapsed_ms=0
+ts=1787212983491 event=launch.stage launch_id=3956030c77e7 stage=download_request elapsed_ms=0
+ts=1787212983590 event=launch.stage launch_id=3956030c77e7 stage=download_complete elapsed_ms=99
+ts=1787212983590 event=launch.stage launch_id=3956030c77e7 stage=ticket_request elapsed_ms=99
+ts=1787212983614 event=launch.stage launch_id=3956030c77e7 stage=ticket_ready elapsed_ms=123
+ts=1787212983615 event=launch.stage launch_id=3956030c77e7 stage=process_spawn elapsed_ms=124
+ts=1787212983664 event=launch.stage launch_id=3956030c77e7 stage=handshake_wait elapsed_ms=173
+ts=1787212984013 event=launch.stage launch_id=3956030c77e7 stage=runtime_delete elapsed_ms=522
+ts=1787212984014 event=launch.success launch_id=3956030c77e7 bytes=110080 elapsed_ms=523
+ts=1787212994205 event=launch.begin launch_id=7525c5752675 stage=begin
+ts=1787212994205 event=launch.stage launch_id=7525c5752675 stage=session_check elapsed_ms=0
+ts=1787212994206 event=launch.stage launch_id=7525c5752675 stage=download_request elapsed_ms=0
+ts=1787212996619 event=launch.stage launch_id=7525c5752675 stage=download_complete elapsed_ms=2413
+ts=1787212996623 event=launch.stage launch_id=7525c5752675 stage=ticket_request elapsed_ms=2417
+ts=1787212996646 event=launch.stage launch_id=7525c5752675 stage=ticket_ready elapsed_ms=2440
+ts=1787212996646 event=launch.stage launch_id=7525c5752675 stage=process_spawn elapsed_ms=2441
+ts=1787212996777 event=launch.stage launch_id=7525c5752675 stage=handshake_wait elapsed_ms=2571
+ts=1787212998634 event=launch.stage launch_id=7525c5752675 stage=runtime_delete elapsed_ms=4428
+ts=1787212998635 event=launch.success launch_id=7525c5752675 bytes=17052672 elapsed_ms=4430
+ts=1787214639710 event=launch.begin launch_id=36cf674b3b00 stage=begin
+ts=1787214639711 event=launch.stage launch_id=36cf674b3b00 stage=session_check elapsed_ms=0
+ts=1787214639711 event=launch.stage launch_id=36cf674b3b00 stage=download_request elapsed_ms=0
+ts=1787214639907 event=launch.aborted launch_id=36cf674b3b00 stage=download_request elapsed_ms=195
+ts=1787214650843 event=launch.begin launch_id=ec8a748b44c0 stage=begin
+ts=1787214650844 event=launch.stage launch_id=ec8a748b44c0 stage=session_check elapsed_ms=0
+ts=1787214650844 event=launch.stage launch_id=ec8a748b44c0 stage=download_request elapsed_ms=0
+ts=1787214650991 event=launch.stage launch_id=ec8a748b44c0 stage=download_complete elapsed_ms=147
+ts=1787214650992 event=launch.stage launch_id=ec8a748b44c0 stage=ticket_request elapsed_ms=148
+ts=1787214651019 event=launch.stage launch_id=ec8a748b44c0 stage=ticket_ready elapsed_ms=174
+ts=1787214651020 event=launch.stage launch_id=ec8a748b44c0 stage=process_spawn elapsed_ms=175
+ts=1787214651199 event=launch.stage launch_id=ec8a748b44c0 stage=handshake_wait elapsed_ms=355
+ts=1787214651628 event=launch.stage launch_id=ec8a748b44c0 stage=runtime_delete elapsed_ms=784
+ts=1787214651630 event=launch.success launch_id=ec8a748b44c0 bytes=110080 elapsed_ms=786
+ts=1787217124588 event=app.start version=0.1.3
+ts=1787217125401 event=app.setup.begin
+ts=1787379429539 event=app.start version=0.1.3
+ts=1787379431262 event=app.setup.begin
+ts=1787379994250 event=app.start version=0.1.3
+ts=1787379995172 event=app.setup.begin
+ts=1787380007634 event=launch.begin launch_id=98b8e9c9608c stage=begin
+ts=1787380007635 event=launch.stage launch_id=98b8e9c9608c stage=session_check elapsed_ms=0
+ts=1787380007635 event=launch.stage launch_id=98b8e9c9608c stage=download_request elapsed_ms=0
+ts=1787380008754 event=launch.stage launch_id=98b8e9c9608c stage=download_complete elapsed_ms=1119
+ts=1787380008755 event=launch.stage launch_id=98b8e9c9608c stage=ticket_request elapsed_ms=1119
+ts=1787380009102 event=launch.stage launch_id=98b8e9c9608c stage=ticket_ready elapsed_ms=1467
+ts=1787380009103 event=launch.stage launch_id=98b8e9c9608c stage=process_spawn elapsed_ms=1468
+ts=1787380009154 event=launch.stage launch_id=98b8e9c9608c stage=handshake_wait elapsed_ms=1518
+ts=1787380025362 event=launch.stage launch_id=98b8e9c9608c stage=runtime_delete elapsed_ms=17726
+ts=1787380025363 event=launch.success launch_id=98b8e9c9608c bytes=110080 elapsed_ms=17728
+ts=1787389234898 event=launch.begin launch_id=564e6e736dcb stage=begin
+ts=1787389234899 event=launch.stage launch_id=564e6e736dcb stage=session_check elapsed_ms=0
+ts=1787389234899 event=launch.stage launch_id=564e6e736dcb stage=download_request elapsed_ms=0
+ts=1787389237877 event=launch.stage launch_id=564e6e736dcb stage=download_complete elapsed_ms=2977
+ts=1787389237878 event=launch.stage launch_id=564e6e736dcb stage=ticket_request elapsed_ms=2978
+ts=1787389239024 event=launch.stage launch_id=564e6e736dcb stage=ticket_ready elapsed_ms=4124
+ts=1787389239025 event=launch.stage launch_id=564e6e736dcb stage=process_spawn elapsed_ms=4126
+ts=1787389239648 event=launch.stage launch_id=564e6e736dcb stage=handshake_wait elapsed_ms=4749
+ts=1787389243137 event=launch.stage launch_id=564e6e736dcb stage=runtime_delete elapsed_ms=8238
+ts=1787389243140 event=launch.success launch_id=564e6e736dcb bytes=110080 elapsed_ms=8241
+ts=1787458672415 event=app.start version=0.1.3
+ts=1787458673590 event=app.setup.begin
+ts=1787458684307 event=launch.begin launch_id=3584350a280e stage=begin
+ts=1787458684307 event=launch.stage launch_id=3584350a280e stage=session_check elapsed_ms=0
+ts=1787458684307 event=launch.stage launch_id=3584350a280e stage=download_request elapsed_ms=0
+ts=1787458684407 event=launch.stage launch_id=3584350a280e stage=download_complete elapsed_ms=99
+ts=1787458684407 event=launch.stage launch_id=3584350a280e stage=ticket_request elapsed_ms=99
+ts=1787458684433 event=launch.stage launch_id=3584350a280e stage=ticket_ready elapsed_ms=125
+ts=1787458684434 event=launch.stage launch_id=3584350a280e stage=process_spawn elapsed_ms=126
+ts=1787458684479 event=launch.stage launch_id=3584350a280e stage=handshake_wait elapsed_ms=171
+ts=1787458684841 event=launch.stage launch_id=3584350a280e stage=runtime_delete elapsed_ms=534
+ts=1787458684842 event=launch.success launch_id=3584350a280e bytes=110080 elapsed_ms=535
+ts=1787582100665 event=app.start version=0.1.3
+ts=1787582101614 event=app.setup.begin
+ts=1787823224064 event=app.start version=0.1.3
+ts=1787823225772 event=app.setup.begin
+ts=1787886791681 event=app.start version=0.1.3
+ts=1787886792452 event=app.setup.begin
+ts=1788086907271 event=app.start version=0.1.3
+ts=1788086908066 event=app.setup.begin
+ts=1788097319110 event=app.start version=0.1.3
+ts=1788097319732 event=app.setup.begin
+ts=1788135671233 event=app.start version=0.1.3
+ts=1788135671887 event=app.setup.begin
+ts=1788160072666 event=app.start version=0.1.3
+ts=1788160073394 event=app.setup.begin
+ts=1788160231557 event=launch.begin launch_id=7bcf6f2f1012 stage=begin
+ts=1788160231558 event=launch.stage launch_id=7bcf6f2f1012 stage=session_check elapsed_ms=0
+ts=1788160231558 event=launch.stage launch_id=7bcf6f2f1012 stage=download_request elapsed_ms=0
+ts=1788160380599 event=launch.stage launch_id=7bcf6f2f1012 stage=download_complete elapsed_ms=149040
+ts=1788160380602 event=launch.stage launch_id=7bcf6f2f1012 stage=ticket_request elapsed_ms=149043
+ts=1788160381311 event=launch.stage launch_id=7bcf6f2f1012 stage=ticket_ready elapsed_ms=149752
+ts=1788160381312 event=launch.stage launch_id=7bcf6f2f1012 stage=process_spawn elapsed_ms=149753
+ts=1788160381435 event=launch.stage launch_id=7bcf6f2f1012 stage=handshake_wait elapsed_ms=149876
+ts=1788160384565 event=launch.stage launch_id=7bcf6f2f1012 stage=runtime_delete elapsed_ms=153007
+ts=1788160384567 event=launch.success launch_id=7bcf6f2f1012 bytes=18792960 elapsed_ms=153009
+ts=1788170087451 event=app.start version=0.1.3
+ts=1788170088274 event=app.setup.begin
+ts=1788170091893 event=launch.begin launch_id=60057d5deded stage=begin
+ts=1788170091894 event=launch.stage launch_id=60057d5deded stage=session_check elapsed_ms=0
+ts=1788170091894 event=launch.stage launch_id=60057d5deded stage=download_request elapsed_ms=0
+ts=1788170311458 event=launch.stage launch_id=60057d5deded stage=download_complete elapsed_ms=219563
+ts=1788170311461 event=launch.stage launch_id=60057d5deded stage=ticket_request elapsed_ms=219567
+ts=1788170312221 event=launch.stage launch_id=60057d5deded stage=ticket_ready elapsed_ms=220327
+ts=1788170312222 event=launch.stage launch_id=60057d5deded stage=process_spawn elapsed_ms=220328
+ts=1788170312367 event=launch.stage launch_id=60057d5deded stage=handshake_wait elapsed_ms=220472
+ts=1788170316923 event=launch.stage launch_id=60057d5deded stage=runtime_delete elapsed_ms=225028
+ts=1788170316925 event=launch.success launch_id=60057d5deded bytes=18792960 elapsed_ms=225030
+ts=1788607070189 event=app.start version=0.1.3
+ts=1788607071780 event=app.setup.begin
+ts=1788607127425 event=app.start version=0.1.3
+ts=1788607128183 event=app.setup.begin
+ts=1788607517964 event=app.start version=0.1.3
+ts=1788607518982 event=app.setup.begin
+ts=1788608474532 event=app.start version=0.1.3
+ts=1788608475374 event=app.setup.begin
+ts=1788608694335 event=app.start version=0.1.3
+ts=1788608695098 event=app.setup.begin
+ts=1788608806486 event=app.start version=0.1.3
+ts=1788608807254 event=app.setup.begin
+ts=1788608867410 event=app.start version=0.1.3
+ts=1788608868089 event=app.setup.begin
+ts=1788609928648 event=app.start version=0.1.3
+ts=1788609929671 event=app.setup.begin
+ts=1788609946458 event=launch.begin launch_id=8eb8d44550bb stage=begin
+ts=1788609946458 event=launch.stage launch_id=8eb8d44550bb stage=session_check elapsed_ms=0
+ts=1788609946459 event=launch.stage launch_id=8eb8d44550bb stage=download_request elapsed_ms=0
+ts=1788610036689 event=launch.aborted launch_id=8eb8d44550bb stage=download_request elapsed_ms=90230
+ts=1788610332326 event=launch.begin launch_id=ee7c986f4596 stage=begin
+ts=1788610332327 event=launch.stage launch_id=ee7c986f4596 stage=session_check elapsed_ms=0
+ts=1788610332328 event=launch.stage launch_id=ee7c986f4596 stage=download_request elapsed_ms=0
+ts=1788610370784 event=launch.aborted launch_id=ee7c986f4596 stage=download_request elapsed_ms=38456
+ts=1788610397159 event=launch.begin launch_id=c3f580b5009d stage=begin
+ts=1788610397159 event=launch.stage launch_id=c3f580b5009d stage=session_check elapsed_ms=0
+ts=1788610397160 event=launch.stage launch_id=c3f580b5009d stage=download_request elapsed_ms=0
+ts=1788610789033 event=launch.aborted launch_id=c3f580b5009d stage=download_request elapsed_ms=391874
+ts=1788610982166 event=launch.begin launch_id=1878ab475b95 stage=begin
+ts=1788610982167 event=launch.stage launch_id=1878ab475b95 stage=session_check elapsed_ms=0
+ts=1788610982168 event=launch.stage launch_id=1878ab475b95 stage=download_request elapsed_ms=0
+ts=1788611004051 event=launch.aborted launch_id=1878ab475b95 stage=download_request elapsed_ms=21884
+ts=1788611212315 event=launch.begin launch_id=d18d366114c7 stage=begin
+ts=1788611212316 event=launch.stage launch_id=d18d366114c7 stage=session_check elapsed_ms=0
+ts=1788611212317 event=launch.stage launch_id=d18d366114c7 stage=download_request elapsed_ms=1
+ts=1788611303103 event=launch.aborted launch_id=d18d366114c7 stage=download_request elapsed_ms=90787
+ts=1788620388504 event=app.start version=0.1.3
+ts=1788620389166 event=app.setup.begin
+ts=1788620401079 event=launch.begin launch_id=7d3938a1a2ed stage=begin
+ts=1788620401080 event=launch.stage launch_id=7d3938a1a2ed stage=session_check elapsed_ms=0
+ts=1788620401080 event=launch.stage launch_id=7d3938a1a2ed stage=download_request elapsed_ms=0
+ts=1788620464820 event=launch.aborted launch_id=7d3938a1a2ed stage=download_request elapsed_ms=63740
+ts=1788661273398 event=launch.begin launch_id=c6dfb3cd0793 stage=begin
+ts=1788661273399 event=launch.stage launch_id=c6dfb3cd0793 stage=session_check elapsed_ms=0
+ts=1788661273400 event=launch.stage launch_id=c6dfb3cd0793 stage=download_request elapsed_ms=0
+ts=1788661471150 event=launch.stage launch_id=c6dfb3cd0793 stage=download_complete elapsed_ms=197750
+ts=1788661471181 event=launch.stage launch_id=c6dfb3cd0793 stage=ticket_request elapsed_ms=197781
+ts=1788661472840 event=launch.stage launch_id=c6dfb3cd0793 stage=ticket_ready elapsed_ms=199440
+ts=1788661472842 event=launch.stage launch_id=c6dfb3cd0793 stage=process_spawn elapsed_ms=199442
+ts=1788661473464 event=launch.stage launch_id=c6dfb3cd0793 stage=handshake_wait elapsed_ms=200064
+ts=1788661479546 event=launch.stage launch_id=c6dfb3cd0793 stage=runtime_delete elapsed_ms=206146
+ts=1788661479550 event=launch.success launch_id=c6dfb3cd0793 bytes=18736128 elapsed_ms=206150
+ts=1789119275189 event=app.start version=0.1.3
+ts=1789119275996 event=app.setup.begin
+ts=1789119295472 event=launch.begin launch_id=f7f37e7642d0 stage=begin
+ts=1789119295473 event=launch.stage launch_id=f7f37e7642d0 stage=session_check elapsed_ms=0
+ts=1789119295474 event=launch.stage launch_id=f7f37e7642d0 stage=download_request elapsed_ms=0
+ts=1789119313347 event=launch.stage launch_id=f7f37e7642d0 stage=download_complete elapsed_ms=17873
+ts=1789119313351 event=launch.stage launch_id=f7f37e7642d0 stage=ticket_request elapsed_ms=17877
+ts=1789119313629 event=launch.stage launch_id=f7f37e7642d0 stage=ticket_ready elapsed_ms=18155
+ts=1789119313630 event=launch.stage launch_id=f7f37e7642d0 stage=process_spawn elapsed_ms=18156
+ts=1789119313798 event=launch.stage launch_id=f7f37e7642d0 stage=handshake_wait elapsed_ms=18325
+ts=1789119318642 event=launch.stage launch_id=f7f37e7642d0 stage=runtime_delete elapsed_ms=23168
+ts=1789119318644 event=launch.success launch_id=f7f37e7642d0 bytes=17013248 elapsed_ms=23171
+ts=1789436424238 event=app.start version=0.1.3
+ts=1789436425264 event=app.setup.begin
+ts=1789436445147 event=launch.begin launch_id=22590c54ef94 stage=begin
+ts=1789436445148 event=launch.stage launch_id=22590c54ef94 stage=session_check elapsed_ms=0
+ts=1789436445148 event=launch.stage launch_id=22590c54ef94 stage=download_request elapsed_ms=0
+ts=1789436448210 event=launch.stage launch_id=22590c54ef94 stage=download_complete elapsed_ms=3062
+ts=1789436448210 event=launch.stage launch_id=22590c54ef94 stage=ticket_request elapsed_ms=3062
+ts=1789436448488 event=launch.stage launch_id=22590c54ef94 stage=ticket_ready elapsed_ms=3340
+ts=1789436448489 event=launch.stage launch_id=22590c54ef94 stage=process_spawn elapsed_ms=3341
+ts=1789436448574 event=launch.stage launch_id=22590c54ef94 stage=handshake_wait elapsed_ms=3426
+ts=1789436452157 event=launch.stage launch_id=22590c54ef94 stage=runtime_delete elapsed_ms=7009
+ts=1789436452158 event=launch.success launch_id=22590c54ef94 bytes=3551744 elapsed_ms=7010
+ts=1789436461487 event=launch.begin launch_id=f344a6d84f1d stage=begin
+ts=1789436461488 event=launch.stage launch_id=f344a6d84f1d stage=session_check elapsed_ms=0
+ts=1789436461488 event=launch.stage launch_id=f344a6d84f1d stage=download_request elapsed_ms=0
+ts=1789436470341 event=launch.stage launch_id=f344a6d84f1d stage=download_complete elapsed_ms=8853
+ts=1789436470344 event=launch.stage launch_id=f344a6d84f1d stage=ticket_request elapsed_ms=8855
+ts=1789436470636 event=launch.stage launch_id=f344a6d84f1d stage=ticket_ready elapsed_ms=9147
+ts=1789436470636 event=launch.stage launch_id=f344a6d84f1d stage=process_spawn elapsed_ms=9148
+ts=1789436470767 event=launch.stage launch_id=f344a6d84f1d stage=handshake_wait elapsed_ms=9278
+ts=1789436474631 event=launch.stage launch_id=f344a6d84f1d stage=runtime_delete elapsed_ms=13142
+ts=1789436474631 event=launch.success launch_id=f344a6d84f1d bytes=17013248 elapsed_ms=13143

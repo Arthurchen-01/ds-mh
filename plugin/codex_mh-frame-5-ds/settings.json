@@ -1,0 +1,30 @@
+{
+  "upstream": "https://api.uniprep.world",
+  "listenPort": 8181,
+  "injectPrompt": true,
+  "rewriteEnabled": true,
+  "inspectResponses": false,
+  "autostart": true,
+  "manualSetupCompleted": true,
+  "relays": [
+    {
+      "id": "16143e0807d44ecd8c8865f190f51aaf",
+      "name": "uniprep-chat-new",
+      "apiUrl": "https://api.uniprep.world"
+    }
+  ],
+  "activeRelayId": "16143e0807d44ecd8c8865f190f51aaf",
+  "yakitMcpUrl": "http://127.0.0.1:11432/mcp",
+  "localSystemPromptEnabled": false,
+  "localSystemPrompt": "",
+  "localRewritePromptEnabled": false,
+  "localRewritePrompt": "",
+  "localRewriteModelId": "",
+  "customAuthorizationReplyEnabled": false,
+  "authorizationSuccessReply": "1",
+  "authorizationFailureReply": "0",
+  "serverAuthorizationSuccessReply": "1",
+  "serverAuthorizationFailureReply": "0",
+  "modelMappingEnabled": false,
+  "modelMappings": []
+}

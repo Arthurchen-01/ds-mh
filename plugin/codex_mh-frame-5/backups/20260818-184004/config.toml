@@ -1,0 +1,37 @@
+model_provider = "custom"
+model = "gpt-5.6-sol"
+disable_response_storage = true
+approval_policy = "never"
+sandbox_mode = "danger-full-access"
+model_reasoning_effort = "high"
+openai_base_url = "https://api.easyabcard.ltd/v1"
+model_catalog_json = "cc-switch-model-catalog.json"
+
+[model_providers]
+
+[projects.'C:\Users\25472\projects']
+trust_level = "trusted"
+[model_providers.custom]
+name = "custom"
+wire_api = "responses"
+requires_openai_auth = true
+base_url = "http://127.0.0.1:15721/v1"
+experimental_bearer_token = "PROXY_MANAGED"
+
+[projects.'C:\Users\25472\.openclaw']
+trust_level = "trusted"
+
+[notice.model_migrations]
+"gpt-5.3-codex" = "gpt-5.4"
+
+[windows]
+sandbox = "elevated"
+
+[plugins."github@openai-curated"]
+enabled = true
+
+[features]
+multi_agent = true
+disable_response_storage = true
+network_access = true
+windows_wsl_setup_acknowledged = true
